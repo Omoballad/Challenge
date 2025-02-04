@@ -156,7 +156,8 @@
     margin-left: 32px;
     margin-right: 32px;
     border-radius: 8px;
-    /* color: #F5F5F5; */
+    border: none;
+    background-color: #F5F5F5;
 }
 .box input{
     width: 500px;
@@ -164,12 +165,39 @@
     margin-top: 16px;
     margin-left: 32px;
     margin-right: 32px;
-    border-radius: 8px;     
+    border-radius: 8px;  
+    border: none;
+    outline: none;
+    background-color: #F5F5F5;   
 }
-.box img{
+.box-image{
     margin-top: 16px;
     padding-left: 244px;
     padding-right: 26px;
+}
+
+.exchange-div{
+    /* position: relative; */
+}
+
+.exchange{
+    /* position: relative; */
+    background: linear-gradient(to right,#604AED, #CF03F0B8) ;
+    background-blend-mode:color;
+    padding: 40px;
+}
+.exchange-2 p{
+    margin-top:-20px;
+    text-align: center;
+}
+.holder{
+    position: relative;
+}
+
+.dollar{
+    position: absolute;
+    top: 30px; 
+    left:50px;   
 }
 
 
