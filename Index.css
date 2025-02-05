@@ -101,7 +101,7 @@
     background-position: center;
     background-size: cover;
     background-color: #191F2B;
-    height: 1200px;
+    height: 1140px;
     margin-top: 147px;
 
 
@@ -119,10 +119,10 @@
     padding-right:383px;
 }
 
-.back {
+/* .back {
 
     overflow: hidden
-}
+} */
 .go {
     width: 350px;
     height: 404px;
@@ -132,11 +132,10 @@
 .general{
     display: flex;
     justify-content: space-between;
-    /* margin-top: 200px; */
 }
 .box{
     width: 564px;
-    height: 700px;
+    height: 600px;
     margin-top: 231px;
     margin-bottom: 68px;
     background-color: #FFFFFF;
@@ -158,6 +157,7 @@
     border-radius: 8px;
     border: none;
     background-color: #F5F5F5;
+    padding-left: 50px;
 }
 .box input{
     width: 500px;
@@ -168,16 +168,13 @@
     border-radius: 8px;  
     border: none;
     outline: none;
-    background-color: #F5F5F5;   
+    background-color: #F5F5F5; 
+    padding-left: 30px;  
 }
 .box-image{
     margin-top: 16px;
     padding-left: 244px;
     padding-right: 26px;
-}
-
-.exchange-div{
-    /* position: relative; */
 }
 
 .exchange{
@@ -199,5 +196,30 @@
     top: 30px; 
     left:50px;   
 }
+.money{
+    position: absolute;
+    top:1690px; 
+    /* left:17px; */
+    right: 550px; 
+}
+.circle{
+    background-color: #604AED;
+    width: 500px;
+    height: 60px;
+    border-radius: 10px;
+    margin-left: 32px;
+    margin-top: 16px;
+}
+.circle h1{
+    font-family: Gilroy-Bold;
+    font-size: 16px;
+    line-height: 18.75px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding-top: 20px;
+    color: white;
+    
 
+}
 
