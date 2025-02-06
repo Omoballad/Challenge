@@ -344,43 +344,31 @@ height: 120px;
 .learning p{
    margin-top: 8px;
    width: 573px;
-   
 }
-.moving{
-    margin-top: 70px;
-    margin-right: 160px;
-}
-.radius{
-    width: 280px;
-    height: 430px;
-    top: 4180px;
-    margin-right: 165px;
-    gap: 0px;
-    opacity: 0px;
-    background-color: #FFFFFF;
-    box-shadow: 0px 3.76px 18.81px 0px #170B6333;
-    position: absolute;
-}
-.works{
-    margin-top: 27.25px;
-    margin-left: 120px;
-    /* width: 22.71px; */
-    height: 22.71px;
-    gap: 0px;
-    opacity: 0px;
-}
-.works h1{
+.coin{
+    margin-top: 160px;
+    margin-left: 530px;
     font-family: Gilroy-Bold;
-    font-size: 13.63px;
-    line-height: 15.97px;
-    text-align: center;
-    width: 62px;
-    height: 17px;
+    font-size: 48px;
+    line-height: 56.25px;
+    width: 378px;
+    height: 59px;
+    gap: 0px;
+    opacity: 0px;
 }
-.works p{
-height: 20px;
-width: 300px;
-margin-right: 200px;
+.coin p{
+    width: 472px;
+height: 19px;
+top: 4235px;
+left: 483px;
+gap: 0px;
+opacity: 0.7px;
+width: 472px;
+height: 19px;
+top: 4235px;
+left: 483px;
+gap: 0px;
+opacity: 0.7px;
 
 }
 
