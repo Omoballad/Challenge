@@ -101,9 +101,8 @@
     background-position: center;
     background-size: cover;
     background-color: #191F2B;
-    height: 1140px;
+    height: 1101px;
     margin-top: 147px;
-
 
 }
 
@@ -219,7 +218,169 @@
     text-decoration-skip-ink: none;
     padding-top: 20px;
     color: white;
-    
+}
+.kash{
+    font-family: Gilroy-Bold;
+    font-size: 20px;
+    margin-top: 187px;
+    text-align: center;
+    color: #191F2B;
+}
+.kash p{
+    font-family: Gilroy-Regular;
+    font-size: 16px;
+    color: #B5B5B5;
+    text-align: center;
+    margin-top: 8px;
+    height: 19px;
+    opacity: 0.7px;
+}
+.bluelogo{
+   
+    margin-top: 80px;
+    padding-left: 164px;
+}
+.bluelogo h1{
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    text-align: left;
+    margin-top: 40px;
+    color: #191F2B;
+}
+.bluelogo p{
+    width: 340px;
+    height: 78px;
+    margin-top: 40px;
+    left: 164px;
+    opacity: 0px;
+    font-family: Gilroy-Regular;
+    font-size: 16px;
+    line-height: 25.6px;
+    text-align: left;
+    color: #8C8F95;
+}
+.mag{
+    /* width: 486.66px; */
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 504px;
+    border: 4px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+    color: #604AED;
+}
+.logoo img{
+    width: 120px;
+height: 120px;
+margin-top: 40px;
+margin-left: 549px;
+gap: 0px;
+opacity: 0px;
+
+}
+.logoo h1{
+   margin-top: 40px;
+   margin-left: 549px;
+   font-family: Gilroy-Bold;
+font-size: 24px;
+line-height: 28.13px;
+}
+.logoo p{
+    width: 340px;
+    height: 78px;
+    margin-top: 40px;
+    margin-left: 549px;
+    color: #8C8F95;
+    opacity: 0px;
+    font-family: Gilroy-Regular;
+    font-size: 16px;
+    line-height: 25.6px;
+}
+.vec{
+    /* width: 523px; */
+height: 400px;
+top: 2593px;
+margin-left: 353px;
+gap: 0px;
+border: 4px 0px 0px 0px;
+opacity: 0px;
+}
+.machine{
+    margin-top: 10px;
+    margin-left: 934px;
+    /* margin-right: 386px; */
+    width: 120px;
+height: 120px;
+}
+.bank h1{
+    margin-top: 40px;
+    margin-left: 700px;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    height: 30px;
+    width: 361px;
+    color: #191F2B;
+}
+.bank p{
+    text-align: center;
+    font-family: Gilroy-Regular;
+    font-size: 16px;
+    margin-left: 700px;
+    margin-top: 25px;
+    width: 340px;
+    height: 78px;
+    color: #8C8F95;
+    opacity: 0px;
+}
+.learning{
+    width: 450px;
+ margin-left: 300px;
+ margin-top: 146px;
+ font-size: 48px;
+ text-align: center;
+ color: #191F2B;
+ 
+}
+.learning p{
+   margin-top: 8px;
+   width: 573px;
+   
+}
+.moving{
+    margin-top: 70px;
+    margin-right: 160px;
+}
+.radius{
+    width: 280px;
+    height: 430px;
+    top: 4180px;
+    margin-right: 165px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 3.76px 18.81px 0px #170B6333;
+    position: absolute;
+}
+.works{
+    margin-top: 27.25px;
+    margin-left: 120px;
+    /* width: 22.71px; */
+    height: 22.71px;
+    gap: 0px;
+    opacity: 0px;
+}
+.works h1{
+    font-family: Gilroy-Bold;
+    font-size: 13.63px;
+    line-height: 15.97px;
+    text-align: center;
+    width: 62px;
+    height: 17px;
+}
+.works p{
+height: 20px;
+width: 300px;
+margin-right: 200px;
 
 }
 
